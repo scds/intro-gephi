@@ -1,19 +1,14 @@
 ---
 layout: home
 title: Home
-description: A Data Analysis Support Hub Tutorial
+description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<img src="assets/img/dmds-gephi.png" alt="Workshop Title Slide" width="720">
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+# Welcome to Introduction to Gephi. 
 
-# Welcome to Data Visualization with Tableau. 
-
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+Graph data, expressing relationships between entities, is another type of data that can be useful to visualize for Humanities scholars. We will use a visualization tool intended for social network analysis, [Gephi](https://gephi.org/), to map and identify relationships within a dataset scraped from Twitter.
 
 Proceed to the [Preparation](preparation) page to get started.
--->
-
