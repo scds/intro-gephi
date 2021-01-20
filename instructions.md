@@ -6,17 +6,18 @@ nav_order: 3
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
-<!--
 
-After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
+
+After ensuring that you've followed the [Preparatory steps](preparation), open Gephi and follow along with the workshop recording or slides. 
 
 ## Workshop recording
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c4bf7bd8-761f-4cc6-bae9-29eecab67da7/public?autoplay=false&automute=false"></iframe>
 
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
+View the original [here](https://echo360.ca/media/c4bf7bd8-761f-4cc6-bae9-29eecab67da7/public).
 
 
+<!--
 ## Workshop slides
 
 <div style="position:relative;padding-top:66.25%;">
