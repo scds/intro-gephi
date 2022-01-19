@@ -1,7 +1,7 @@
 # Introduction to Gephi
 Materials for DMDS workshop: **Introduction to Gephi**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/intro-gephi) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/intro-gephi) with GitHub Pages.  
 
 
 Contributions by the following individuals: 
