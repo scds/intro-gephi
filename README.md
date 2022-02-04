@@ -1,5 +1,5 @@
-# Introduction to Gephi
-Materials for DMDS workshop: **Introduction to Gephi**  
+# Network Visualizations with Gephi
+Materials for DMDS workshop: **Network Visualizations with Gephi**  
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/intro-gephi) with GitHub Pages.  
 
