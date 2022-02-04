@@ -8,7 +8,7 @@ nav_order: 3
 
 
 
-After ensuring that you've followed the [Preparatory steps](preparation), open Gephi and follow along with the workshop recording and/or slides. This page includes slides for the 2021 and 2022 sessions. 
+After ensuring that you've followed the [Preparatory steps](preparation), open Gephi and follow along with the workshop recording and/or slides. This page includes materials for the 2021 and 2022 sessions. 
 
 ## 2021 Workshop recording
 
