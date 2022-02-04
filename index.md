@@ -5,7 +5,7 @@ description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<img src="assets/img/dmds-gephi.PNG" alt="Workshop Title Slide" width="720">
+<img src="assets/img/TWITTER-Network-Gephi Feb 2.png" alt="Workshop Title Slide" width="720">
 
 # Welcome to Introduction to Gephi. 
 
