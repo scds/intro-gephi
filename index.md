@@ -5,7 +5,7 @@ description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<img src="assets/img/TWITTER-Network-Gephi Feb 2.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 # Network Visualizations with Gephi 
 
