@@ -1,4 +1,4 @@
-title: Network Visualizations with Gephi # *** Enter workshop title here 
+title: Network Visualization and Analysis with Gephi # *** Enter workshop title here 
 github_repo_url: "https://scds.github.io/intro-gephi/" # *** Enter workshop URL (in github pages) here
 gh_edit_repository: "https://github.com/scds/intro-gephi/" # *** Enter the github URL for your repo
 ga_tracking: "G-FS6PBXCV5X" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
@@ -7,7 +7,7 @@ ga_tracking: "G-FS6PBXCV5X" # *** This needs to be set up in Google Analytics on
 # If you know some HTML, you can use HTML tags.
 # To create a link: <a href="PUT URL HERE">the text you want to show up</a>
 # Template: 'Module content created by <a href="LINK HERE">NAME</a> and <a href="LINK HERE">NAME</a>; edited for online use and online pages created by <a href="LINK HERE">NAME</a>.'
-credits: 'Module content created by Devon Mordell; edited for online use and online pages created by <a href="https://experts.mcmaster.ca/display/brodeujj">Jay Brodeur</a>, Devon Mordell, and <a href="https://www.multipixels.dev">Richie Motorgeanu</a>.'
+credits: 'Module content created by Devon Mordell and Subhanya Sivajothy; edited for online use and online pages created by <a href="https://experts.mcmaster.ca/display/brodeujj">Jay Brodeur</a>, Devon Mordell, and <a href="https://www.multipixels.dev">Richie Motorgeanu</a>.'
 
 # DMDS Settings
 subtitle: "This workshop is part of the Do More with Digital Scholarship (DMDS) series."
