@@ -5,10 +5,12 @@ nav_order: 3
 ---
 
 # Workshop Recordings
+<!-- 
+After ensuring that you’ve followed the [Preparatory steps](preparation), open Gephi and follow along with the workshop recording and/or slides. -->
 
-After ensuring that you’ve followed the [Preparatory steps](preparation), open Gephi and follow along with the workshop recording and/or slides.
+Available below are all recorded workshop offerings for the network visualization and network analysis workshops. We recommend watching only the latest recording, but the rest are made available if you're looking for something in particular.
 
-## Network Visualization
+## Part 1 - Network Visualization
 
 <details markdown="1">
 <summary>September 2023</summary>
@@ -28,7 +30,7 @@ After ensuring that you’ve followed the [Preparatory steps](preparation), open
 [Download as PDF.](assets/docs/intro-social-network-analysis.pdf) -->
 </details>
 
-## Network Analysis
+## Part 2 - Network Analysis
 
 <details markdown="1">
 <summary>January 2024</summary>

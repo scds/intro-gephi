@@ -7,7 +7,7 @@ nav_order: 2
 # Workshop preparation 
   
 ## 1. Get the data
-For the workshop, we will be using a dataset that has been processed in advance, but please feel free to have a dataset you’d like to work with handy and we can discuss how you might approach it at the end of the workshop.
+For these workshops, we will be using a dataset that has been processed in advance, but please feel free to have a dataset you’d like to work with handy and we can discuss how you might approach it at the end of the workshop.
 
 <!--
 You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx). -->
