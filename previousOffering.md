@@ -21,13 +21,17 @@ Available below are all recorded workshop offerings for the network visualizatio
 [Download as PDF.](assets/docs/intro-social-network-analysis.pdf) -->
 </details>
 
-<details>
-<summary>October 2022</summary>
+<details markdown="1">
+<summary>September 2022</summary>
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/06521d2e-1a2a-45fc-83f8-a834f91fce1c/public"></iframe>
+
 [View original here.](https://echo360.ca/media/06521d2e-1a2a-45fc-83f8-a834f91fce1c/public)
+
+[Access the datasets (located at the top of the webpage).](https://libguides.mcmaster.ca/c.php?g=728979&p=5260753)
 
 <!-- <embed src="assets/docs/intro-social-network-analysis.pdf" style="border:none;" width="100%" height="466px">
 [Download as PDF.](assets/docs/intro-social-network-analysis.pdf) -->
+
 </details>
 
 ## Part 2 - Network Analysis
@@ -50,7 +54,7 @@ Available below are all recorded workshop offerings for the network visualizatio
 [Download as PDF.](assets/docs/GephiNetworkVisualizationsSlides.pdf)
 </details>
 
-<details>
+<details markdown="1">
 <summary>January 2021</summary>
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/c4bf7bd8-761f-4cc6-bae9-29eecab67da7/public"></iframe>
 [View original here.](https://echo360.ca/media/c4bf7bd8-761f-4cc6-bae9-29eecab67da7/public)
