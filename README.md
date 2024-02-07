@@ -1,10 +1,10 @@
-# Network Visualizations with Gephi
-Materials for DMDS workshop: **Network Visualizations with Gephi**  
+# Network Visualizations and Analysis with Gephi
+Materials for DMDS workshop: **Network Visualizations and Analysis with Gephi**  
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-gephi) with GitHub Pages.  
 
 Contributions by the following individuals: 
-- Workshop content created by Devon Modell
+- Workshop content created by Devon Modell and Subhanya Sivajothy
 - Content edited for online use by Devon Modell, Jay Brodeur, and Richie Motorgeanu
 - Online pages created by Jay Brodeur
 
